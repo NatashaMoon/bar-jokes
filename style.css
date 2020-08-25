@@ -1,0 +1,20 @@
+body {
+    background-color: lemonchiffon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: burlywood;
+}
+
+h1, h2 {
+    color: maroon
+}
+
+.indented {
+    margin-left: 50px;
+}
+
+.border {
+    border-bottom: 1px solid black;
+}
